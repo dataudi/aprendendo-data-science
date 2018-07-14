@@ -17,6 +17,8 @@ cópias não autorizadas de material protegido por direito autoral.
             1. [Data Science Central](https://www.datasciencecentral.com/)
             1. [EliteDataScience](https://elitedatascience.com/)
             1. [Kaggle](https://www.kaggle.com/)
+        1. Repositórios de datasets
+            1. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
     1. Pagos
         1. Cursos
